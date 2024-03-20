@@ -11,3 +11,7 @@ Dataset 'Campus Placement Prediction' berisikan serangkaian fitur yang bertujuan
 Regresi : https://www.kaggle.com/datasets/akshaydattatraykhare/data-for-admission-in-the-university
 
 Dataset ini mencakup berbagai informasi seperti skor GRE, skor TOEFL, peringkat universitas, SOP (Statement of Purpose), LOR (Letter of Rekomendasi), CGPA, penelitian dan peluang penerimaan. Dalam kumpulan data ini terdapat 400 baris.
+
+## Cara Menjalankan ##
+
+Clone repository atau download file zip
